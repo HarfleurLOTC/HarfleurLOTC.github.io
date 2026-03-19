@@ -4,3 +4,20 @@ body {
    border-color: black;
    border-style: dotted;
 }
+
+/*<-- Hyperlink Colors -->*/
+a {
+   color: rgb(133, 12, 52);
+}
+
+a:visited {
+   color: rgb(133, 12, 52);
+}
+
+a:hover {
+   color: red;
+}
+
+a:active {
+   color: darkred;
+}
