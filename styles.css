@@ -1,4 +1,6 @@
 body {
    background-color: lightblue;
-   border: 5px solid red;
+   border-width: 3px;
+   border-style: dashed;
+   border-color: red;
 }
